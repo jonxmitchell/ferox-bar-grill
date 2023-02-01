@@ -27,9 +27,11 @@ Red Fox Bar & Grill website has been developed as the front and center for the b
     - [Gallery Page](#Gallery-Page)
     - [Table Booking Page](#Table-Booking-Page)
     - [Contact Us Page](#Contact-Us-Page)
+    - [Future Features](#Future-Features)
 - [Technologies Used](#Technologies-Used)
   - [Frameworks, Libraries, Programs & Web Apps Used](#Frameworks,-Libraries,-Programs-&-Web-Apps-Used)
 - [Credits](#Credits)
+  - [Content](#Content)
 
 ## User Experience (UX)
 
@@ -105,6 +107,9 @@ This website will have a range of pages which are all built with providing an ea
 - #### Contact Us Page
   - This will be a simple page where it will be a form for the customer to fill out to be able to ask any general enquries they may have.
   - This will also provide other contact details like the telephone number for the resturant and also the location of the resturant so customers can easily locate the resturant.
+- #### Future Features
+  - In the future I would like to add some interaction / behavour features to the website, for example, I would like to use JavaScript make the forms on the page have event listeners so they are able to be used in more complex ways which can provide a better experience for the customer.
+  - I would like to use an API to be able to pull reviews from a review website like TrustPi;ot to fill the reviews section on the website instead of having to keep manually updating them.
 
 ## Technologies Used
 
@@ -115,4 +120,9 @@ This website will have a range of pages which are all built with providing an ea
 
 ## Credits
 
-[Shields.io](https://shields.io) - Created the badges on the ReadMe.md
+For this section, it has been used to show a list of all the resources that I have used throughout building this website.
+
+### Content
+
+- [Shields.io](https://shields.io) - Created the badges on the ReadMe.md
+- [readme.so](https://readme.so/) - Helping assist me to create my readme file.
