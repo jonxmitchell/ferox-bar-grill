@@ -63,7 +63,7 @@
 
 .hero-image {
   height: 50vh;
-  width: 100vw;
+  width: 100%;
   object-fit: cover;
 }
 
@@ -217,6 +217,12 @@
   font-size: 1.1rem;
 }
 
+@media screen and (max-width: 768px) {
+  .menu-btn {
+    margin: -1rem 0 0 0;
+  }
+}
+
 /* ----- Gallery Page ----- */
 
 .gallery-section {
@@ -226,13 +232,92 @@
 /* ----- Book Table ----- */
 
 .book-table-form {
-  width: 80%;
+  width: 30%;
   margin: 5rem auto 3rem auto;
 }
 
 .form-date {
   display: flex;
   flex-direction: column;
+}
+
+@media screen and (max-width: 768px) {
+  .book-table-form {
+    width: 90%;
+    margin: 5rem auto 3rem auto;
+  }
+
+  .table-booking-btn {
+    width: 100%;
+  }
+}
+
+/* ----- Contact ----- */
+
+.contact-container {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: flex-start;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+
+.contact-information {
+  display: flex;
+  justify-content: start;
+  flex-direction: column;
+}
+
+.contact-information h2 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.phone-info,
+.email-info,
+.address-info {
+  display: flex;
+  font-size: 1rem;
+  margin-top: 1rem;
+}
+
+.phone-info h4,
+.email-info h4,
+.address-info h4 {
+  font-size: 1.2rem;
+}
+
+.contact-icon {
+  font-size: 1.5rem;
+  margin-right: 1rem;
+}
+
+.contact-form-container {
+  width: 35%;
+}
+
+@media screen and (max-width: 768px) {
+  .contact-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 3rem;
+    margin-bottom: -0.1rem;
+  }
+
+  .contact-form-container {
+    width: 85%;
+    margin-top: 5rem;
+  }
+
+  .contact-map {
+    margin-top: 5rem;
+  }
+
+  .contact-btn {
+    margin-top: -0.1rem;
+    width: 100%;
+  }
 }
 
 /* ----- FOOTER ----- */
