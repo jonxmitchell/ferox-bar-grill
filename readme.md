@@ -107,7 +107,7 @@ This website will have a range of pages which are all built with providing an ea
   - This will also provide other contact details like the telephone number for the resturant and also the location of the resturant so customers can easily locate the resturant.
 - #### Future Features
   - In the future I would like to add some interaction / behavour features to the website, for example, I would like to use JavaScript make the forms on the page have event listeners so they are able to be used in more complex ways which can provide a better experience for the customer.
-  - I would like to use an API to be able to pull reviews from a review website like TrustPi;ot to fill the reviews section on the website instead of having to keep manually updating them.
+  - I would like to use an API to be able to pull reviews from a review website like TrustPilot to fill the reviews section on the website instead of having to keep manually updating them.
 
 ## Wireframes
 
