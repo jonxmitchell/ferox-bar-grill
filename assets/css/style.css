@@ -186,6 +186,40 @@
 
 /* ----- Home Page----- */
 
+/* ----- Menu Page ----- */
+
+.menu-category-container {
+  display: flex;
+  justify-content: center;
+  margin: 5rem auto;
+  width: 80%;
+  gap: 3rem;
+}
+
+.menu-closing {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 60%;
+  margin: -4rem auto 3rem auto;
+}
+
+.menu-item-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.menu-item {
+  width: 90%;
+}
+
+.menu-item,
+.menu-item-price {
+  font-size: 1.1rem;
+}
+
+/* ----- Menu Page ----- */
+
 /* ----- FOOTER ----- */
 
 .footer-container {
