@@ -159,3 +159,10 @@ For this section, it has been used to show a list of all the resources that I ha
 - [Usplash Image - Jurica Koletić](https://unsplash.com/photos/7YVZYZeITc8) - Used for review two user image on home page.
 - [Usplash Image - Henrique Castilho](https://unsplash.com/photos/L8kMx3rzt7s) - Used for review three user image on home page.
 - [Usplash Image - Lidye](https://unsplash.com/photos/1Shk_PkNkNw) - Used for the hero image on the menu page.
+- [Usplash Image - Albert](https://unsplash.com/photos/YYZU0Lo1uXE) - Used for hero image on the gallery page.
+- [Usplash Image - Dinesh Ramaswamy](https://unsplash.com/photos/p-sEkj6-hAM) - Used in the gallery page.
+- [Usplash Image - Francisco Suarez](https://unsplash.com/photos/0EkWTSFXwCc) - Used in the gallery page.
+- [Usplash Image - Sebastian Coman Photography](https://unsplash.com/photos/eBmyH7oO5wY) - Used in the gallery page.
+- [Usplash Image - Jay Wennington](https://unsplash.com/photos/N_Y88TWmGwA) - Used in the gallery page.
+- [Usplash Image - Eugene](https://unsplash.com/photos/Xk0jQPZseMk) - Used in the gallery page.
+- [Usplash Image - Kyle Head](https://unsplash.com/photos/PW8K-W-Kni0) - Used in the gallery page.
