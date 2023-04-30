@@ -1,5 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Aboreto&family=Poppins&family=Sacramento&display=swap");
+
 * {
   margin: 0;
   padding: 0;
   border: 0;
+  font-family: "Poppins", sans-serif;
 }
+
+:root {
+  --primary-color: #002f5b;
+  --white-color: #f3f3f3;
+  --secondary-white-color: #a9a9a9;
+}
+
+/* ----- NAV BAR ----- */
+
+#logo-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-left: 2rem;
+  /* border: 5px solid red; */
+}
+
+#ferox-logo {
+  font-family: "Sacramento", cursive;
+  font-size: 3rem;
+  margin-bottom: -1rem;
+  color: var(--white-color);
+}
+
+#bar-grill-logo {
+  font-family: "Aboreto", cursive;
+  font-size: 1rem;
+  margin-left: 0.2rem;
+  color: var(--white-color);
+}
+
+.nav-link {
+  color: var(--white-color);
+  font-size: 1.5rem;
+}
+
+.nav-link:hover {
+  color: var(--secondary-white-color);
+}
+
+.navbar-nav .nav-link.active,
+.navbar-nav .nav-link.show {
+  color: var(--secondary-white-color);
+}
+
+.navbar-toggler {
+  color: var(--white-color);
+  border: var(--bs-border-width) solid var(--white-color);
+  background-color: white;
+}
+
+/* ----- NAV BAR ----- */
