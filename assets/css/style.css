@@ -155,6 +155,35 @@
   background-image: url(../img/service-four.webp);
 }
 
+.reviews-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5rem;
+  margin: 10rem 3rem;
+}
+
+.review-container {
+  width: 15rem;
+}
+
+.review-image {
+  height: 3rem;
+  width: 3rem;
+  border-radius: 50%;
+  margin-right: 0.5rem;
+}
+
+.review-user-info {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.review-description {
+  margin-top: 1rem;
+}
+
 /* ----- Home Page----- */
 
 /* ----- FOOTER ----- */
@@ -168,8 +197,7 @@
   background-color: var(--primary-color);
 }
 
-.social-media-icons,
-i {
+.footer-icon {
   color: var(--white-color);
   font-size: 2rem;
   transition: 0.3s;
@@ -177,8 +205,7 @@ i {
   cursor: pointer;
 }
 
-.social-media-icons,
-i:hover {
+.footer-icon:hover {
   color: var(--secondary-white-color);
 }
 
