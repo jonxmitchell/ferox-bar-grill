@@ -184,6 +184,15 @@
   margin-top: 1rem;
 }
 
+@media screen and (max-width: 768px) {
+  .about-us-description {
+    width: 80%;
+  }
+  .book-btn {
+    width: 20rem;
+  }
+}
+
 /* ----- Menu Page ----- */
 
 .menu-category-container {
