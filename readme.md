@@ -166,3 +166,4 @@ For this section, it has been used to show a list of all the resources that I ha
 - [Usplash Image - Jay Wennington](https://unsplash.com/photos/N_Y88TWmGwA) - Used in the gallery page.
 - [Usplash Image - Eugene](https://unsplash.com/photos/Xk0jQPZseMk) - Used in the gallery page.
 - [Usplash Image - Kyle Head](https://unsplash.com/photos/PW8K-W-Kni0) - Used in the gallery page.
+- [Usplash Image - Hitesh Dewasi](https://unsplash.com/photos/5JwBbnyZzfc) - Used in the book a table page.
