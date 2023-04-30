@@ -33,13 +33,13 @@
               <a class="nav-link" href="./menu.html">Menu</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link active" href="./gallery.html">Gallery</a>
+              <a class="nav-link" href="./gallery.html">Gallery</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="./tablebooking.html">Book A Table</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="./contact.html">Contact</a>
+              <a class="nav-link active" href="./contact.html">Contact</a>
             </li>
           </ul>
         </div>
@@ -49,31 +49,41 @@
 
     <!-- Hero -->
     <section class="hero-section">
-      <img class="hero-image" src="./assets/img/gallery-hero.webp" alt="hero image" />
+      <img class="hero-image" src="./assets/img/tablebooking-hero.webp" alt="hero image" />
       <div class="hero-text-container">
-        <h1 class="about-us-title">Gallery</h1>
+        <h1 class="about-us-title">Book A Table</h1>
       </div>
     </section>
     <!-- Hero -->
 
-    <!-- Gallery -->
-    <section class="gallery-section">
-      <div class="row">
-        <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
-          <img src="./assets/img/gallery-one.webp" class="w-100 shadow-1-strong rounded mb-4" alt="image" />
-          <img src="./assets/img/gallery-three.webp" class="w-100 shadow-1-strong rounded mb-4" alt="image" />
+    <!-- Form Book Table -->
+    <section class="book-table-form">
+      <form action="">
+        <div class="mb-3">
+          <label for="name" class="name-form-label">Full Name</label>
+          <input type="name" class="form-control" id="name" placeholder="John Smith" required />
         </div>
-        <div class="col-lg-4 mb-5 mb-lg-1">
-          <img src="./assets/img/gallery-four.webp" class="w-100 shadow-1-strong rounded mb-4" alt="image" />
-          <img src="./assets/img/gallery-five.webp" class="w-100 shadow-1-strong rounded mb-4" alt="image" />
+        <div class="mb-3">
+          <label for="email" class="email-form-label">Email Address</label>
+          <input type="email" class="form-control" id="email" placeholder="name@example.com" required />
         </div>
-        <div class="col-lg-4 mb-4 mb-lg-3">
-          <img src="./assets/img/gallery-two.webp" class="w-100 shadow-1-strong rounded mb-4" alt="image" />
-          <img src="./assets/img/gallery-six.webp" class="w-100 shadow-1-strong rounded mb-4" alt="image" />
+        <div class="form-date mb-3">
+          <label for="date" class="date-form-label">Date</label>
+          <input type="date" class="form-control" id="date" required />
         </div>
-      </div>
+        <div class="form-date mb-3">
+          <label for="number-of-people" class="nop-form-label">Number of People</label>
+          <input type="number" class="form-control" id="number-of-people" required />
+        </div>
+        <div class="mb-3">
+          <label for="comments" class="comments-form-label">Comments</label>
+          <textarea class="form-control" id="comments" rows="3" placeholder="any requirements for accessiblity or dietary"></textarea>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Primary</button>
+      </form>
     </section>
-    <!-- Gallery -->
+    <!-- Form Book Table-->
 
     <!-- FOOTER -->
     <footer class="footer-container">
@@ -85,8 +95,6 @@
       <div class="copyright">Copyright 2023 &copy; Jon Mitchell</div>
     </footer>
     <!-- FOOTER -->
-
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.8.2/js/lightbox.min.js"></script>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous"></script>
   </body>
