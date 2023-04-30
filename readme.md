@@ -1,6 +1,10 @@
 <h1 align="center">🍻 Ferox Bar & Grill 🥩</h1>
 
-[View the live project here.](#)
+![Device Mockups](./assets/img/device-mockups.png)
+
+[View the live project here.](https://jonxmitchell.github.io/ferox-bar-grill)
+
+[Am I Responsive?](https://ui.dev/amiresponsive?url=https://jonxmitchell.github.io/ferox-bar-grill)
 
 Red Fox Bar & Grill website has been developed as the front and center for the business with a responsive and accessible design for a range of devices to ensure it provides a seemless experience for all vistors.
 
@@ -23,13 +27,17 @@ Red Fox Bar & Grill website has been developed as the front and center for the b
   - [Features](#Features)
     - [Summary](#Summary)
     - [Home Page](#Home-Page)
-    - [About Us Page](#About-Us-Page)
     - [Gallery Page](#Gallery-Page)
     - [Table Booking Page](#Table-Booking-Page)
     - [Contact Us Page](#Contact-Us-Page)
     - [Future Features](#Future-Features)
 - [Technologies Used](#Technologies-Used)
   - [Frameworks, Libraries, Programs & Web Apps Used](#Frameworks,-Libraries,-Programs-&-Web-Apps-Used)
+- [Wireframes](#wireframes)
+  - [Desktop Wireframe](#desktop-wireframe)
+  - [Mobile Wireframe](#mobile-wireframe)
+  - [Tablet Wireframe](#tablet-wireframe)
+- [Deployment](#deployment)
 - [Credits](#Credits)
   - [Content](#Content)
 
@@ -125,7 +133,17 @@ The software used to create the wireframes is [Balsamiq Wireframes](hhttps://bal
 
 ![Tablet Wireframe](./assets/img/Wireframe%20Tablet.png)
 
-## Deloyment
+## Implemented Features
+
+### Features Across All Pages
+
+Throughout the whole website, one of the most common features used has been the Navigation Bar and the hero image secton. These two features have been consistant throughout the website with only the hero image changing on each page. The navgiation bar is fully responsive for desktop, mobile and tablet.
+![Navgiation / Hero Image](./assets/img/nav-hero-feature.png)
+
+The second common feature throughout the website that has been consistant throughout all the pages is the footer section of the site. The footer has remained the same to provide a constant theme.
+![Navgiation / Hero Image](./assets/img/footer-feature.png)
+
+## Deployment
 
 This website was deloyed to Github Pages
 
@@ -161,6 +179,7 @@ For this section, it has been used to show a list of all the resources that I ha
 - [Usplash Image - Lidye](https://unsplash.com/photos/1Shk_PkNkNw) - Used for the hero image on the menu page.
 - [Usplash Image - Sandra Seitamaa](https://unsplash.com/photos/OFJGlG3sKik) - Used for the hero image on the contact page.
 - [Usplash Image - Albert](https://unsplash.com/photos/YYZU0Lo1uXE) - Used for hero image on the gallery page.
+- [Usplash Image - Edward Howell](https://unsplash.com/photos/vvUy1hWVYEA) - Used for hero image on the response page.
 - [Usplash Image - Dinesh Ramaswamy](https://unsplash.com/photos/p-sEkj6-hAM) - Used in the gallery page.
 - [Usplash Image - Francisco Suarez](https://unsplash.com/photos/0EkWTSFXwCc) - Used in the gallery page.
 - [Usplash Image - Sebastian Coman Photography](https://unsplash.com/photos/eBmyH7oO5wY) - Used in the gallery page.
