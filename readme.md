@@ -121,6 +121,10 @@ The software used to create the wireframes is [Balsamiq Wireframes](hhttps://bal
 
 ![Mobile Wireframe](./assets/img/Wireframe%20Mobile.png)
 
+### Mobile Wireframe
+
+![Tablet Wireframe](./assets/img/Wireframe%20Tablet.png)
+
 ## Deloyment
 
 This website was deloyed to Github Pages
