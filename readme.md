@@ -113,7 +113,13 @@ This website will have a range of pages which are all built with providing an ea
 
 The software used to create the wireframes is [Balsamiq Wireframes](hhttps://balsamiq.com/wireframes/).
 
-![Logo](./assets/img/Wireframe%20Desktop.png)
+### Desktop Wireframe
+
+![Desktop Wireframe](./assets/img/Wireframe%20Desktop.png)
+
+### Mobile Wireframe
+
+![Mobile Wireframe](./assets/img/Wireframe%20Mobile.png)
 
 ## Deloyment
 
