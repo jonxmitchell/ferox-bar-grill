@@ -149,3 +149,4 @@ For this section, it has been used to show a list of all the resources that I ha
 
 - [Shields.io](https://shields.io) - Created the badges on the ReadMe.md
 - [readme.so](https://readme.so/) - Helping assist me to create my readme file.
+- [Google Fonts](https://fonts.google.com/) - Provided the fonts used in the website.
