@@ -329,6 +329,15 @@
   }
 }
 
+/* ----- Response ----- */
+
+.response-description {
+  font-size: 3rem;
+  width: 50%;
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+}
+
 /* ----- FOOTER ----- */
 
 .footer-container {
