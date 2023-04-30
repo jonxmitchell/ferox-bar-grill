@@ -98,8 +98,6 @@ This website will have a range of pages which are all built with providing an ea
   - The home page will start off with a hero which will be a carousel slider to cycle through a range of photos of the resturant.
   - Scrolling mid way down this page you will be greated with a short about us piece of text.
   - Scrolling to the bottom of the page, you will be greeted by reviews thats previous customers have left about the resturant.
-- #### About Us Page
-  - This page will only have one section and that will be an image which repersents the business with a piece of text below it explaining the business and their values.
 - #### Gallery Page
   - This page will be a gallery of images of the business, its staff, their food and drink so customers will be able to get a better look into the resturant.
 - #### Table Booking Page
@@ -111,12 +109,27 @@ This website will have a range of pages which are all built with providing an ea
   - In the future I would like to add some interaction / behavour features to the website, for example, I would like to use JavaScript make the forms on the page have event listeners so they are able to be used in more complex ways which can provide a better experience for the customer.
   - I would like to use an API to be able to pull reviews from a review website like TrustPi;ot to fill the reviews section on the website instead of having to keep manually updating them.
 
+## Wireframes
+
+The software used to create the wireframes is [Balsamiq Wireframes](hhttps://balsamiq.com/wireframes/).
+
+![Logo](./assets/img/Wireframe%20Desktop.png)
+
+## Deloyment
+
+This website was deloyed to Github Pages
+
 ## Technologies Used
 
 ### Frameworks, Libraries, Programs & Web Apps Used
 
 - [Coolors](https://coolors.co/) was used to create my colour scheme. You can find my colour scheme [here](https://coolors.co/002f5b-004078-3e6385-a9a9a9-f3f3f3).
 - [Shields.io](https://shields.io) was used to create my badges at the top of my readme.md.
+- [HTML 5](https://html.spec.whatwg.org/multipage/) was used to create the website structure.
+- [CSS 5](https://www.w3.org/TR/css-2022/) was used to style the website.
+- [Bootstrap](https://getbootstrap.com/) was used to help speed up the website development speed.
+- [Font Awesome](https://fontawesome.com/) was used for icons on the website.
+- [Balsamiq Wireframes](hhttps://balsamiq.com/wireframes/) was used to wireframe the website layout.
 
 ## Credits
 
