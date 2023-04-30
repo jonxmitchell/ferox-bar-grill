@@ -11,6 +11,7 @@
   --primary-color: #002f5b;
   --white-color: #f3f3f3;
   --secondary-white-color: #a9a9a9;
+  --secondary-blue-color: #004078;
 }
 
 /* ----- NAV BAR ----- */
@@ -40,7 +41,7 @@
 
 .nav-link {
   color: var(--white-color);
-  font-size: 1.5rem;
+  font-size: 1.1rem;
 }
 
 .nav-link:hover {
@@ -59,3 +60,130 @@
 }
 
 /* ----- NAV BAR ----- */
+
+/* ----- Home Page ----- */
+
+.hero-image {
+  height: 50vh;
+  width: 100vw;
+  object-fit: cover;
+}
+
+.hero-text-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 3rem;
+}
+
+.about-us-title {
+  font-family: "Sacramento", cursive;
+  font-size: 5rem;
+}
+
+.about-us-description {
+  width: 60%;
+  margin: 0.5rem 3rem;
+  text-align: center;
+}
+
+.btn-primary {
+  --bs-btn-color: var(--white-color);
+  --bs-btn-bg: var(--primary-color);
+  --bs-btn-border-color: var(--primary-color);
+  --bs-btn-hover-color: var(--white-color);
+  --bs-btn-hover-bg: var(--secondary-blue-color);
+  --bs-btn-hover-border-color: var(--secondary-blue-color);
+  --bs-btn-active-color: var(--white-color);
+  --bs-btn-active-bg: var(--secondary-blue-color);
+  --bs-btn-active-border-color: var(--secondary-blue-color);
+  --bs-btn-disabled-color: var(--white-color);
+  --bs-btn-disabled-bg: var(--primary-color);
+  --bs-btn-disabled-border-color: var(--primary-color);
+}
+
+.btn {
+  --bs-btn-border-radius: 0;
+  color: var(--white-color);
+  background-color: var(--primary-color);
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+}
+
+.services-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 3rem;
+  flex-wrap: wrap;
+  margin: 3rem 0;
+  text-shadow: 3px 0px 9px #403b3e;
+}
+
+.service-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: var(--white-color);
+  text-align: center;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  height: 17rem;
+  width: 17rem;
+  object-fit: cover;
+  object-position: right;
+}
+
+.service-item h1 {
+  text-shadow: 3px 0px 9px #403b3e;
+}
+
+.service-one {
+  background-image: url(../img/service-one.webp);
+}
+
+.service-two {
+  background-image: url(../img/service-two.webp);
+}
+
+.service-three {
+  background-image: url(../img/service-three.webp);
+}
+
+.service-four {
+  background-image: url(../img/service-four.webp);
+}
+
+/* ----- Home Page----- */
+
+/* ----- FOOTER ----- */
+
+.footer-container {
+  height: 10rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--primary-color);
+}
+
+.social-media-icons,
+i {
+  color: var(--white-color);
+  font-size: 2rem;
+  transition: 0.3s;
+  margin-right: 1rem;
+  cursor: pointer;
+}
+
+.social-media-icons,
+i:hover {
+  color: var(--secondary-white-color);
+}
+
+.copyright {
+  color: var(--white-color);
+}
+
+/* ----- FOOTER ----- */
