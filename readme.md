@@ -135,7 +135,7 @@ This website was deloyed to Github Pages
 - [CSS 5](https://www.w3.org/TR/css-2022/) was used to style the website.
 - [Bootstrap](https://getbootstrap.com/) was used to help speed up the website development speed.
 - [Font Awesome](https://fontawesome.com/) was used for icons on the website.
-- [Balsamiq Wireframes](hhttps://balsamiq.com/wireframes/) was used to wireframe the website layout.
+- [Balsamiq Wireframes](https://balsamiq.com/wireframes/) was used to wireframe the website layout.
 
 ## Credits
 
