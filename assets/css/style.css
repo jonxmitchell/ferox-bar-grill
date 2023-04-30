@@ -59,8 +59,6 @@
   background-color: white;
 }
 
-/* ----- NAV BAR ----- */
-
 /* ----- Home Page ----- */
 
 .hero-image {
@@ -75,6 +73,7 @@
   justify-content: center;
   align-items: center;
   margin-top: 3rem;
+  text-align: center;
 }
 
 .about-us-title {
@@ -185,8 +184,6 @@
   margin-top: 1rem;
 }
 
-/* ----- Home Page----- */
-
 /* ----- Menu Page ----- */
 
 .menu-category-container {
@@ -220,15 +217,23 @@
   font-size: 1.1rem;
 }
 
-/* ----- Menu Page ----- */
-
 /* ----- Gallery Page ----- */
 
 .gallery-section {
   margin: 5rem 3rem;
 }
 
-/* ----- Gallery Page ----- */
+/* ----- Book Table ----- */
+
+.book-table-form {
+  width: 80%;
+  margin: 5rem auto 3rem auto;
+}
+
+.form-date {
+  display: flex;
+  flex-direction: column;
+}
 
 /* ----- FOOTER ----- */
 
