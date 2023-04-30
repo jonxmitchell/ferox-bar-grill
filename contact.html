@@ -76,18 +76,18 @@
       <!-- Contact Form -->
 
       <div class="contact-form-container">
-        <form action="">
+        <form action="https://formdump.codeinstitute.net/" method="POST">
           <div class="mb-3">
             <label for="name" class="name-form-label">Full Name</label>
-            <input type="name" class="form-control" id="name" placeholder="John Smith" required />
+            <input type="name" class="form-control" id="name" placeholder="John Smith" name="name" required />
           </div>
           <div class="mb-3">
             <label for="email" class="email-form-label">Email Address</label>
-            <input type="email" class="form-control" id="email" placeholder="name@example.com" required />
+            <input type="email" class="form-control" id="email" placeholder="name@example.com" name="email" required />
           </div>
           <div class="mb-3">
             <label for="query" class="query-form-label">Query Information</label>
-            <textarea class="form-control" id="query" rows="3"></textarea>
+            <textarea class="form-control" id="query" rows="3" name="query"></textarea>
           </div>
           <button type="submit" class="contact-btn btn btn-primary">Submit</button>
         </form>
