@@ -6,7 +6,7 @@
 
 [Am I Responsive?](https://ui.dev/amiresponsive?url=https://jonxmitchell.github.io/ferox-bar-grill)
 
-Red Fox Bar & Grill website has been developed as the front and center for the business with a responsive and accessible design for a range of devices to ensure it provides a seemless experience for all vistors.
+Red Fox Bar & Grill website has been developed as the front and center for the business with a responsive and accessible design for a range of devices to ensure it provides a smooth experience for all visitors.
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/jonxmitchell/ferox-bar-grill?style=for-the-badge&color=green)
 ![GitHub language count](https://img.shields.io/github/languages/count/jonxmitchell/ferox-bar-grill?style=for-the-badge&color=yellow)
@@ -54,15 +54,15 @@ Red Fox Bar & Grill website has been developed as the front and center for the b
 
 ## User Experience (UX)
 
-Ferox Bar & Grill is a website to showcase the resturant to protenial customers. The site is built to make it a smooth experience for customers to find out what the serves in terms of their good and drinks, where to locate the resturant and using its seemless table booking feature.
+Ferox Bar & Grill is a website to showcase the restaurant to potential customers. The site is built to make it a smooth experience for customers to find out what the serves in terms of their good and drinks, where to locate the restaurant and using its table booking feature.
 
 ### Key Features of the Site
 
-- Showcase the resturant.
+- Showcase the restaurant.
 - An always up to date menu.
-- Easily display of information on how to locate the resturant.
+- Easily display of information on how to locate the restaurant.
 - An easy way for customers to make a table booking.
-- User friendly way to contact the resturant.
+- User friendly way to contact the restaurant.
 - Reviews from previous customers.
 
 ### User Stories
@@ -70,22 +70,22 @@ Ferox Bar & Grill is a website to showcase the resturant to protenial customers.
 - #### First Time User Goals
 
   - Being a first time user of the site, I want to be able to obtain the information I need as quick and as efficiently as possible.
-  - I would like to find reviews on the resturant to have a good understanding if this is an establishment I want to visit and spend money at.
-  - I want to be able to easily locate their social media to check their following to determine if this establisment can be trusted, also their instagram to see more photos of the resturant and its food and drinks.
-  - I want to be able to easily find out where the resturant is located and how I can book a table with ease.
+  - I would like to find reviews on the restaurant to have a good understanding if this is an establishment I want to visit and spend money at.
+  - I want to be able to easily locate their social media to check their following to determine if this establishment can be trusted, also their instagram to see more photos of the restaurant and its food and drinks.
+  - I want to be able to easily find out where the restaurant is located and how I can book a table with ease.
 
 - #### Clients User Goals
 
   - As the client, I want to use the site to help bring more exposure to the business.
   - I want the site to display all the information they will need to make it a smooth experience for them.
   - An always up to date menu so customers know what we are serving.
-  - Provide the users with a seemless table booking system so other resourses are not used up within the business (eg. telephone table bookings require staff to answer the phone).
+  - Provide the users with a smooth table booking system so other resources are not used up within the business (eg. telephone table bookings require staff to answer the phone).
 
 - #### Returning Users Goals
   - Check for changes within the menu.
   - Want to book another table for their return visit.
-  - Write a review on their experience when they visited the resturant.
-  - Want to sign up to our newsletter for new updates in our menu or if the resturant will be closed for any period.
+  - Write a review on their experience when they visited the restaurant.
+  - Want to sign up to our newsletter for new updates in our menu or if the restaurant will be closed for any period.
 
 ## Design
 
@@ -108,24 +108,24 @@ All images used in this website can be located below in [credits](Credits) below
 
 ### Features
 
-This website will have a range of pages which are all built with providing an easy and smooth expeirence for the customer and to add benefits to the client to allow them to redirect there resources that can be used else where.
+This website will have a range of pages which are all built with providing an easy and smooth experience for the customer and to add benefits to the client to allow them to redirect there resources that can be used else where.
 
 - #### Summary
-  - The website will be built to provide a completely responsive design where the elements on all the pages will be able to be displayed correctly on a range of divices from desktop to mobile.
-  - The design throughout the website will be consistant through the colour scheme of the site and also the navigation and foot will remain the same throughout the website.
+  - The website will be built to provide a completely responsive design where the elements on all the pages will be able to be displayed correctly on a range of devices from desktop to mobile.
+  - The design throughout the website will be consistent through the colour scheme of the site and also the navigation and foot will remain the same throughout the website.
 - #### Home Page
-  - The home page will start off with a hero which will be a carousel slider to cycle through a range of photos of the resturant.
-  - Scrolling mid way down this page you will be greated with a short about us piece of text.
-  - Scrolling to the bottom of the page, you will be greeted by reviews thats previous customers have left about the resturant.
+  - The home page will start off with a hero which will be a carousel slider to cycle through a range of photos of the restaurant.
+  - Scrolling mid way down this page you will be greeted with a short about us piece of text about the restaurant.
+  - Scrolling to the bottom of the page, you will be greeted by reviews thats previous customers have left about the restaurant.
 - #### Gallery Page
-  - This page will be a gallery of images of the business, its staff, their food and drink so customers will be able to get a better look into the resturant.
+  - This page will be a gallery of images of the business, its staff, their food and drink so customers will be able to get a better look into the restaurant.
 - #### Table Booking Page
-  - This page will be one section which will consist of a form where a customer will be able to arrange a booking of a table for when they would like to visit the resturant and this will give a range of options of how the customer would like to book their table to their own needs.
+  - This page will be one section which will consist of a form where a customer will be able to arrange a booking of a table for when they would like to visit the restaurant and this will give a range of options of how the customer would like to book their table to their own needs.
 - #### Contact Us Page
-  - This will be a simple page where it will be a form for the customer to fill out to be able to ask any general enquries they may have.
-  - This will also provide other contact details like the telephone number for the resturant and also the location of the resturant so customers can easily locate the resturant.
+  - This will be a simple page where it will be a form for the customer to fill out to be able to ask any general enquires they may have.
+  - This will also provide other contact details like the telephone number for the restaurant and also the location of the restaurant so customers can easily locate the restaurant.
 - #### Future Features
-  - In the future I would like to add some interaction / behavour features to the website, for example, I would like to use JavaScript make the forms on the page have event listeners so they are able to be used in more complex ways which can provide a better experience for the customer.
+  - In the future I would like to add some interaction / behavior features to the website, for example, I would like to use JavaScript make the forms on the page have event listeners so they are able to be used in more complex ways which can provide a better experience for the customer.
   - I would like to use an API to be able to pull reviews from a review website like TrustPilot to fill the reviews section on the website instead of having to keep manually updating them.
 
 ## Wireframes
@@ -148,15 +148,15 @@ The software used to create the wireframes is [Balsamiq Wireframes](hhttps://bal
 
 ### Features Across All Pages
 
-Throughout the whole website, one of the most common features used has been the Navigation Bar and the hero image secton. These two features have been consistant throughout the website with only the hero image changing on each page. The navgiation bar is fully responsive for desktop, mobile and tablet.
-![Navgiation / Hero Image](./assets/img/nav-hero-feature.png)
+Throughout the whole website, one of the most common features used has been the Navigation Bar and the hero image section. These two features have been consistent throughout the website with only the hero image changing on each page. The navigation bar is fully responsive for desktop, mobile and tablet.
+![Navigation / Hero Image](./assets/img/nav-hero-feature.png)
 
-The second common feature throughout the website that has been consistant throughout all the pages is the footer section of the site. The footer has remained the same to provide a constant theme.
-![Navgiation / Hero Image](./assets/img/footer-feature.png)
+The second common feature throughout the website that has been consistent throughout all the pages is the footer section of the site. The footer has remained the same to provide a constant theme.
+![Navigation / Hero Image](./assets/img/footer-feature.png)
 
 ### Home Page Feature
 
-The home page is the very first page that anyone will most likely land on. The purpose of this feature is to explain what the site is. You can use the navigation links to navigate the site as well as clear images and visable text and a button on the top half of the page to book a table. This page also shows some reviews of past customers.
+The home page is the very first page that anyone will most likely land on. The purpose of this feature is to explain what the site is. You can use the navigation links to navigate the site as well as clear images and visible text and a button on the top half of the page to book a table. This page also shows some reviews of past customers.
 ![Home page One Feature Image](./assets/img/homepage-one-feature.png)
 ![Home page Two Feature Image](./assets/img/homepage-two-feature.png)
 
@@ -167,17 +167,17 @@ The menu page is a great future of the website as the customers can see what foo
 
 ### Gallery Feature
 
-The gallary is a simple webpage on the site, it is just a collection of images of the restaurant to show what it looks like and what the food it serves also looks like to allow customers to get a good understanding of what to expect of they are to visit.
+The gallery is a simple webpage on the site, it is just a collection of images of the restaurant to show what it looks like and what the food it serves also looks like to allow customers to get a good understanding of what to expect of they are to visit.
 ![Gallery Feature Image](./assets/img/gallery-feature.png)
 
 ### Book A Table Feature
 
-The table booking feature is a feature that can be used by customers to be able to book a table more easily to ask calling up to book a table and it will send a request straight to the restaurant who can then reply when they are able to within a timeframe to confirm or decline the booking.
+The table booking feature is a feature that can be used by customers to be able to book a table more easily to ask calling up to book a table and it will send a request straight to the restaurant who can then reply when they are able to within a timescale to confirm or decline the booking.
 ![Book A Table Feature](./assets/img/tablebooking-feature.png)
 
 ### Contact Feature
 
-This page on the site was built for customers to be able to contact the restaurant about any sort of query they may have about it and the restaurant will be able to respond back to the member within a certain timeframe. This page also provides more information on how to contact the restaurant and how to locate it.
+This page on the site was built for customers to be able to contact the restaurant about any sort of query they may have about it and the restaurant will be able to respond back to the member within a certain timescale. This page also provides more information on how to contact the restaurant and how to locate it.
 ![Contact Feature](./assets/img/contact-feature.png)
 
 ### Response Feature
@@ -257,12 +257,12 @@ For this section, it has been used to show a list of all the resources that I ha
 - [Usplash Image - Eugene](https://unsplash.com/photos/Xk0jQPZseMk) - Used in the gallery page.
 - [Usplash Image - Kyle Head](https://unsplash.com/photos/PW8K-W-Kni0) - Used in the gallery page.
 - [Usplash Image - Hitesh Dewasi](https://unsplash.com/photos/5JwBbnyZzfc) - Used in the book a table page.
-- [Google Maps](https://maps.google.co.uk/) - Used to emabed a map location into my contact page.
+- [Google Maps](https://maps.google.co.uk/) - Used to embed a map location into my contact page.
 - [Am I Responsive?](https://ui.dev/amiresponsive) - Used to create the device mock up in the read me file.
 - [Stackoverflow](https://stackoverflow.com/) - Used to help with research and understanding certain concepts and code.
 - [Font Awesome](https://fontawesome.com/) - Used to add icons to parts of the website.
 - [W3Schools](https://www.w3schools.com/) - Used to research certain HTML tags and CSS syntax.
-- [MDM Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML) - Used for research HTML tags for syntax explainations.
+- [MDM Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML) - Used for research HTML tags for syntax explanations.
 - [MDBootstrap - Static images](https://mdbootstrap.com/docs/standard/extended/gallery/) - Used to help create the layout for the gallery on the gallery page.
 - [W3C HTML Validator](https://validator.w3.org/) - Used to help validate my HTML code on all pages.
 - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) - Used to help validate my CSS code.
