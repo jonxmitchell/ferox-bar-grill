@@ -266,3 +266,4 @@ For this section, it has been used to show a list of all the resources that I ha
 - [Font Awesome](https://fontawesome.com/) - Used to add icons to parts of the website.
 - [W3Schools](https://www.w3schools.com/) - Used to research certain HTML tags and CSS syntax.
 - [MDM Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML) - Used for research HTML tags for syntax explainations.
+- [MDBootstrap - Static images](https://mdbootstrap.com/docs/standard/extended/gallery/) - Used to help create the layout for the gallery on the gallery page.
