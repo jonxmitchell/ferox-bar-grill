@@ -257,3 +257,5 @@ For this section, it has been used to show a list of all the resources that I ha
 - [Usplash Image - Hitesh Dewasi](https://unsplash.com/photos/5JwBbnyZzfc) - Used in the book a table page.
 - [Google Maps](https://maps.google.co.uk/) - Used to emabed a map location into my contact page.
 - [Am I Responsive?](https://ui.dev/amiresponsive) - Used to create the device mock up in the read me file.
+- [Stackoverflow](https://stackoverflow.com/) - Used to help with research and understanding certain concepts and code.
+- [Font Awesome](https://fontawesome.com/) - Used to add icons to parts of the website.
