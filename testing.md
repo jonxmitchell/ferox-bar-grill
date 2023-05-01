@@ -8,7 +8,7 @@ This section will show how well the code has performed within code validators.
 
 ### HTML
 
-I have decided to use the [W3C Validator](https://validator.w3.org/) to check if my HTML code is valid. Please see the below table with the results.
+I have decided to use the [W3C HTML Validator](https://validator.w3.org/) to check if my HTML code is valid. Please see the below table with the results.
 
 | Page   | Screenshot | Notes |
 | ------ |  ---------- | ----- |
@@ -18,3 +18,11 @@ I have decided to use the [W3C Validator](https://validator.w3.org/) to check if
 | Book A Table Page (tablebooking.html) | ![Book A Table Page Test Screenshot](./assets/img/tablebooking-page-testing.png) |  Passed |
 | Contact Page (tablebooking.html) | ![Contact Page Test Screenshot](./assets/img/contact-page-testing.png) |  Passed |
 | Response Page (response.html) | ![Response Page Test Screenshot](./assets/img/response-page-testing.png) |  Passed |
+
+### CSS
+
+I have decided to use the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/validator) to check if my CSS code is valid. Please see the below table with the results.
+
+| Page   | Screenshot | Notes |
+| ------ |  ---------- | ----- |
+| CSS File (style.css) | ![CSS File Test Screenshot](./assets/img/CSS-validatator.png) |  Passed |
