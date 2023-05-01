@@ -51,7 +51,6 @@ Red Fox Bar & Grill website has been developed as the front and center for the b
   - [Local Deployment](#local-deployment)
   - [Gitpod](#gitpod)
 - [Credits](#Credits)
-  - [Content](#Content)
 
 ## User Experience (UX)
 
@@ -235,8 +234,6 @@ In order use this method with Gitpod, you will be required to have the browner e
 
 For this section, it has been used to show a list of all the resources that I have used throughout building this project.
 
-### Content
-
 - [Shields.io](https://shields.io) - Created the badges on the ReadMe.md
 - [readme.so](https://readme.so/) - Helping assist me to create my readme file.
 - [Google Fonts](https://fonts.google.com/) - Provided the fonts used in the website.
@@ -267,3 +264,5 @@ For this section, it has been used to show a list of all the resources that I ha
 - [W3Schools](https://www.w3schools.com/) - Used to research certain HTML tags and CSS syntax.
 - [MDM Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML) - Used for research HTML tags for syntax explainations.
 - [MDBootstrap - Static images](https://mdbootstrap.com/docs/standard/extended/gallery/) - Used to help create the layout for the gallery on the gallery page.
+- [W3C HTML Validator](https://validator.w3.org/) - Used to help validate my HTML code on all pages.
+- [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) - Used to help validate my CSS code.
