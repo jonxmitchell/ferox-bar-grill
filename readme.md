@@ -37,7 +37,18 @@ Red Fox Bar & Grill website has been developed as the front and center for the b
   - [Desktop Wireframe](#desktop-wireframe)
   - [Mobile Wireframe](#mobile-wireframe)
   - [Tablet Wireframe](#tablet-wireframe)
+- [Implemented Features](#implemented-features)
+  - [Features Across All Pages](#features-across-all-pages)
+  - [Home Page Feature](#home-page-feature)
+  - [Menu Feature](#menu-feature)
+  - [Gallery Feature](#gallery-feature)
+  - [Book A Table Feature](#book-a-table-feature)
+  - [Contact Feature](#contact-feature)
+  - [Response Feature](#response-feature)
 - [Deployment](#deployment)
+  - [Github Pages](#github-pages)
+  - [Local Deployment](#local-deployment)
+  - [Gitpod](#gitpod)
 - [Credits](#Credits)
   - [Content](#Content)
 
@@ -176,7 +187,32 @@ This is a simple page just to let you know once you have submitted a table booki
 
 ## Deployment
 
-This website was deloyed to Github Pages
+### Github Pages
+
+This website was deployed to Github Pages and the steps in how it was deployed using this method are as follows.
+
+1. Using this Github repository, locate the `Setting` button near the top right.
+2. Select `Pages` on the left side.
+3. Under `Branch`, select your `Master` branch and then select `/root` and click `Save`.
+
+### Local Deployment
+
+You are able to clone this repository by following the steps below.
+
+1. Head to the [GitHub repository](https://github.com/jonxmitchell/ferox-bar-grill).
+2. Find the button called `Code` located near the top right.
+3. Select your preference of choice between HTTPS, SSH or Github CLI and copy the git clone link.
+4. Open a terminal, change the root directory of where you would like to clone the project.
+5. Paste the git clone link into your terminal and clone the project to your chosen directory.
+   - `https://github.com/jonxmitchell/ferox-bar-grill`
+
+### Gitpod
+
+You can use Gitpod if you wish to clone this repository by clicking on the button below.
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/jonxmitchell/ferox-bar-grill)
+
+In order use this method with Gitpod, you will be required to have the browner extension installed. If you require assistance with setting it up, you can use this [link](https://www.gitpod.io/docs/configure/user-settings/browser-extension) to help.
 
 ## Technologies Used
 
@@ -192,7 +228,7 @@ This website was deloyed to Github Pages
 
 ## Credits
 
-For this section, it has been used to show a list of all the resources that I have used throughout building this website.
+For this section, it has been used to show a list of all the resources that I have used throughout building this project.
 
 ### Content
 
@@ -219,4 +255,5 @@ For this section, it has been used to show a list of all the resources that I ha
 - [Usplash Image - Eugene](https://unsplash.com/photos/Xk0jQPZseMk) - Used in the gallery page.
 - [Usplash Image - Kyle Head](https://unsplash.com/photos/PW8K-W-Kni0) - Used in the gallery page.
 - [Usplash Image - Hitesh Dewasi](https://unsplash.com/photos/5JwBbnyZzfc) - Used in the book a table page.
-- [Google Maps](https://maps.google.co.uk/) - Used to emabed a map location into my contact page
+- [Google Maps](https://maps.google.co.uk/) - Used to emabed a map location into my contact page.
+- [Am I Responsive?](https://ui.dev/amiresponsive) - Used to create the device mock up in the read me file.
