@@ -23,6 +23,19 @@ I have decided to use the [W3C HTML Validator](https://validator.w3.org/) to che
 
 I have decided to use the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/validator) to check if my CSS code is valid. Please see the below table with the results.
 
-| Page   | Screenshot | Notes |
+| File   | Screenshot | Notes |
 | ------ |  ---------- | ----- |
 | CSS File (style.css) | ![CSS File Test Screenshot](./assets/img/CSS-validatator.png) |  Passed |
+
+## Browser Compatibility
+
+Here I have chosen to test how the site works across 4 of the biggest browsers available. As I do not have access to a MacBook or a device that can run the latest version of Apple's Safari browser, I am unable to test the site on that browser. The site has been tested on Microsoft Edge, Google Chrome, Opera and Firefox.
+
+![Browser Market Share](./assets/img/browser-market-share.png)
+
+| Browser   | Screenshot | Notes |
+| ------ |  ---------- | ----- |
+| Microsoft Edge | ![Microsoft Edge Screenshot](./assets/img/microsoft-edge-test.png) |  Passed, no issues were found |
+| FireFox | ![FireFox Screenshot](./assets/img/firefox-test.png) |  Passed, no issues were found |
+| Chrome | ![Chrome Screenshot](./assets/img/chrome-test.png) |  Passed, no issues were found |
+| Opera | ![Opera Screenshot](./assets/img/Opera-test.png) |  Passed, no issues were found |
