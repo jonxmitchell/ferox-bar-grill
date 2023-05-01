@@ -39,3 +39,16 @@ Here I have chosen to test how the site works across 4 of the biggest browsers a
 | FireFox | ![FireFox Screenshot](./assets/img/firefox-test.png) |  Passed, no issues were found |
 | Chrome | ![Chrome Screenshot](./assets/img/chrome-test.png) |  Passed, no issues were found |
 | Opera | ![Opera Screenshot](./assets/img/Opera-test.png) |  Passed, no issues were found |
+
+## Accessibility Accessibility
+
+Accessibility on the web is important to make sure we accommodate for everyone who tries to access our site to ensure they can have a smooth experience and get the information or action they need. To test the accessibility of the website, I have used [Web Accessibility Evaluation Tool (WAVE)](https://wave.webaim.org/).
+
+| Page   | Screenshot | Notes |
+| ------ |  ---------- | ----- |
+| Home Page (index.html) | ![Home Pag Screenshot](./assets/img/homepage-access-test.png) |  Errors found, corrected the alt text on images, however, I contrast errors are not needed to be corrected, alerts can be ignored. |
+| Menu (menu.html) | ![Menu Screenshot](./assets/img/menu-access-test.png) |  Errors found, fixed linking to same page in navbar links, blank links in footer can be ignored, alerts can be ignored. |
+| Book A Table (tablebooking.html) | ![Book A Table Screenshot](./assets/img/tablebooking-access-test.png) |  Errors found, fixed linking to same page in navbar links, blank links in footer can be ignored as the text are icons with links to external sites, alerts can be ignored. |
+| Gallery (gallery.html) | ![Gallery Screenshot](./assets/img/gallery-access-test.png) |  Errors found, fixed linking to same page in navbar links, blank links in footer can be ignored as the text are icons with links to external sites, alerts can be ignored. |
+| Contact (contact.html) | ![Gallery Screenshot](./assets/img/contact-access-test.png) |  Errors found, fixed linking to same page in navbar links, blank links in footer can be ignored as the text are icons with links to external sites, alerts can be ignored. |
+| Response (contact.html) | ![Response Screenshot](./assets/img/contact-access-test.png) |  Errors found, blank links in footer can be ignored as the text are icons with links to external sites, error with the redirect can be ignored as this is the purpose of the page is to redirect you after 5 seconds as soon as you join it, alerts can be ignored. |
