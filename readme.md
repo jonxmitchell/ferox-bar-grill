@@ -143,6 +143,37 @@ Throughout the whole website, one of the most common features used has been the 
 The second common feature throughout the website that has been consistant throughout all the pages is the footer section of the site. The footer has remained the same to provide a constant theme.
 ![Navgiation / Hero Image](./assets/img/footer-feature.png)
 
+### Home Page Feature
+
+The home page is the very first page that anyone will most likely land on. The purpose of this feature is to explain what the site is. You can use the navigation links to navigate the site as well as clear images and visable text and a button on the top half of the page to book a table. This page also shows some reviews of past customers.
+![Home page One Feature Image](./assets/img/homepage-one-feature.png)
+![Home page Two Feature Image](./assets/img/homepage-two-feature.png)
+
+### Menu Feature
+
+The menu page is a great future of the website as the customers can see what food is being served. The menu is shown in categories which customers can click open to expand, this was chosen to work like this to keep the page nice and clean and free from clutter and showing only the information the customer wants.
+![Menu Feature Image](./assets/img/menu-feature.png)
+
+### Gallery Feature
+
+The gallary is a simple webpage on the site, it is just a collection of images of the restaurant to show what it looks like and what the food it serves also looks like to allow customers to get a good understanding of what to expect of they are to visit.
+![Gallery Feature Image](./assets/img/gallery-feature.png)
+
+### Book A Table Feature
+
+The table booking feature is a feature that can be used by customers to be able to book a table more easily to ask calling up to book a table and it will send a request straight to the restaurant who can then reply when they are able to within a timeframe to confirm or decline the booking.
+![Book A Table Feature](./assets/img/tablebooking-feature.png)
+
+### Contact Feature
+
+This page on the site was built for customers to be able to contact the restaurant about any sort of query they may have about it and the restaurant will be able to respond back to the member within a certain timeframe. This page also provides more information on how to contact the restaurant and how to locate it.
+![Contact Feature](./assets/img/contact-feature.png)
+
+### Response Feature
+
+This is a simple page just to let you know once you have submitted a table booking or a message via the contact page that it has been sent successfully and the page will redirect you to the home page within 5 seconds.
+![Contact Feature](./assets/img/response-feature.png)
+
 ## Deployment
 
 This website was deloyed to Github Pages
@@ -180,6 +211,7 @@ For this section, it has been used to show a list of all the resources that I ha
 - [Usplash Image - Sandra Seitamaa](https://unsplash.com/photos/OFJGlG3sKik) - Used for the hero image on the contact page.
 - [Usplash Image - Albert](https://unsplash.com/photos/YYZU0Lo1uXE) - Used for hero image on the gallery page.
 - [Usplash Image - Edward Howell](https://unsplash.com/photos/vvUy1hWVYEA) - Used for hero image on the response page.
+- [Usplash Image - Siyuan](https://unsplash.com/photos/vvUy1hWVYEA) - Used for hero image on the contact page.
 - [Usplash Image - Dinesh Ramaswamy](https://unsplash.com/photos/p-sEkj6-hAM) - Used in the gallery page.
 - [Usplash Image - Francisco Suarez](https://unsplash.com/photos/0EkWTSFXwCc) - Used in the gallery page.
 - [Usplash Image - Sebastian Coman Photography](https://unsplash.com/photos/eBmyH7oO5wY) - Used in the gallery page.
