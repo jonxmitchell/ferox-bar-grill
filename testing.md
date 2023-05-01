@@ -52,3 +52,20 @@ Accessibility on the web is important to make sure we accommodate for everyone w
 | Gallery (gallery.html) | ![Gallery Screenshot](./assets/img/gallery-access-test.png) |  Errors found, fixed linking to same page in navbar links, blank links in footer can be ignored as the text are icons with links to external sites, alerts can be ignored. |
 | Contact (contact.html) | ![Gallery Screenshot](./assets/img/contact-access-test.png) |  Errors found, fixed linking to same page in navbar links, blank links in footer can be ignored as the text are icons with links to external sites, alerts can be ignored. |
 | Response (contact.html) | ![Response Screenshot](./assets/img/contact-access-test.png) |  Errors found, blank links in footer can be ignored as the text are icons with links to external sites, error with the redirect can be ignored as this is the purpose of the page is to redirect you after 5 seconds as soon as you join it, alerts can be ignored. |
+
+## Lighthouse Analyzing  
+
+I have used the Lighthouse feature within the Microsoft Edge browser to help get a good idea on the scoring of how the site performs on each page on mobile and desktop versions of the site.
+
+| Page   | Screenshot | Format | Notes |
+| ------ |  ---------- | ----- |----- |
+| Home Page (index.html) | ![Home Page Screenshot](./assets/img/home-desktop-lighthouse-test.png) |  Desktop  |   Passed with an overall score of 95%  |
+| Home Page (index.html) | ![Home Page Screenshot](./assets/img/home-mobile-lighthouse-test.png) |  Mobile  |   Scored an 82% due to the issue being with image sizes, this can be fixed by compressing images to be smaller in size to.  |
+| Menu Page (menu.html) | ![Menu Page Screenshot](./assets/img/menu-desktop-lighthouse-test.png) |  Desktop  |   Passed  |
+| Menu Page (menu.html) | ![Menu Page Screenshot](./assets/img/menu-mobile-lighthouse-test.png) |  Mobile  |   Passed  |
+| Gallery Page (gallery.html) | ![Gallery Page Screenshot](./assets/img/gallery-desktop-lighthouse-test.png) |  Desktop  |   Passed  |
+| Gallery Page (gallery.html) | ![Gallery Page Screenshot](./assets/img/gallery-mobile-lighthouse-test.png) |  Mobile  |   Scored 85% on performance due to the size in the image, these can be better optimized by compressing the images down to a smaller size.  |
+| Book A Table Page (tablebooking.html) | ![Book A Table Page Screenshot](./assets/img/tablebooking-desktop-lighthouse-test.png) |  Desktop  | Passed  |
+| Book A Table Page (tablebooking.html) | ![Book A Table Page Screenshot](./assets/img/tablebooking-mobile-lighthouse-test.png) |  Mobile  | Passed  |
+| Contact Page (contact.html) | ![Contact Page Screenshot](./assets/img/contact-desktop-lighthouse-test.png) |  Desktop  | Passed, however best practices with scored 83% due to the google maps console logging errors from the embed. |
+| Contact Page (contact.html) | ![Contact Page Screenshot](./assets/img/contact-mobile-lighthouse-test.png) |  Mobile  | Passed |
