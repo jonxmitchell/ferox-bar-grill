@@ -45,6 +45,7 @@ Red Fox Bar & Grill website has been developed as the front and center for the b
   - [Book A Table Feature](#book-a-table-feature)
   - [Contact Feature](#contact-feature)
   - [Response Feature](#response-feature)
+- [Testing](#testing)
 - [Deployment](#deployment)
   - [Github Pages](#github-pages)
   - [Local Deployment](#local-deployment)
@@ -185,6 +186,10 @@ This page on the site was built for customers to be able to contact the restaura
 This is a simple page just to let you know once you have submitted a table booking or a message via the contact page that it has been sent successfully and the page will redirect you to the home page within 5 seconds.
 ![Contact Feature](./assets/img/response-feature.png)
 
+## Testing
+
+Throughout creating this website, there has been on-going testing to ensure all the features on the website are working as they should be. For all testing related documentation, please refer to the [Testing.md](./testing.md) file.
+
 ## Deployment
 
 ### Github Pages
@@ -259,3 +264,5 @@ For this section, it has been used to show a list of all the resources that I ha
 - [Am I Responsive?](https://ui.dev/amiresponsive) - Used to create the device mock up in the read me file.
 - [Stackoverflow](https://stackoverflow.com/) - Used to help with research and understanding certain concepts and code.
 - [Font Awesome](https://fontawesome.com/) - Used to add icons to parts of the website.
+- [W3Schools](https://www.w3schools.com/) - Used to research certain HTML tags and CSS syntax.
+- [MDM Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML) - Used for research HTML tags for syntax explainations.
