@@ -69,3 +69,127 @@ I have used the Lighthouse feature within the Microsoft Edge browser to help get
 | Book A Table Page (tablebooking.html) | ![Book A Table Page Screenshot](./assets/img/tablebooking-mobile-lighthouse-test.png) |  Mobile  | Passed  |
 | Contact Page (contact.html) | ![Contact Page Screenshot](./assets/img/contact-desktop-lighthouse-test.png) |  Desktop  | Passed, however best practices with scored 83% due to the google maps console logging errors from the embed. |
 | Contact Page (contact.html) | ![Contact Page Screenshot](./assets/img/contact-mobile-lighthouse-test.png) |  Mobile  | Passed |
+
+## Responsiveness
+
+Below you will see the examples of how well the site performance on different device resolutions.
+
+<details>
+<summary> iPhone 12 Pro (Microsoft Edge Dev Tools)</summary>
+
+![iPhone 12 Pro](./assets/img/homepage-responsive-test.png)
+
+| Page | Result |
+| --- | --- |
+| Home | ✅ Passed |
+| Menu | ✅ Passed |
+| Gallery | ✅ Passed |
+| Book A Table | ✅ Passed |
+| Contact | ✅ Passed |
+| Response | ✅ Passed|
+</details>
+
+<details>
+<summary> Samsung Galaxy 8+ (Microsoft Edge Dev Tools)</summary>
+
+![Samsung Galaxy 8+](./assets/img/homepage-responsive-samsunggalaxy-test.png)
+
+| Page | Result |
+| --- | --- |
+| Home | ✅ Passed |
+| Menu | ✅ Passed |
+| Gallery | ✅ Passed |
+| Book A Table | ✅ Passed |
+| Contact | ✅ Passed |
+| Response | ✅ Passed|
+</details>
+
+<details>
+<summary> Samsung Galaxy 20 Ultra (Microsoft Edge Dev Tools)</summary>
+
+![Samsung Galaxy 20 Ultra](./assets/img/homepage-responsive-samsunggalaxy20-test.png)
+
+| Page | Result |
+| --- | --- |
+| Home | ✅ Passed |
+| Menu | ✅ Passed |
+| Gallery | ✅ Passed |
+| Book A Table | ✅ Passed |
+| Contact | ✅ Passed |
+| Response | ✅ Passed|
+</details>
+
+<details>
+<summary> iPad Air (Microsoft Edge Dev Tools)</summary>
+
+![iPad Air](./assets/img/homepage-responsive-ipadair-test.png)
+
+| Page | Result |
+| --- | --- |
+| Home | ✅ Passed |
+| Menu | ✅ Passed |
+| Gallery | ✅ Passed |
+| Book A Table | ✅ Passed |
+| Contact | ✅ Passed |
+| Response | ✅ Passed|
+</details>
+
+<details>
+<summary> Surface Pro 7 (Microsoft Edge Dev Tools)</summary>
+
+![Surface Pro 7](./assets/img/homepage-responsive-surfacepro7-test.png)
+
+| Page | Result |
+| --- | --- |
+| Home | ✅ Passed |
+| Menu | ✅ Passed |
+| Gallery | ✅ Passed |
+| Book A Table | ✅ Passed |
+| Contact | ✅ Passed |
+| Response | ✅ Passed|
+</details>
+
+<details>
+<summary> Surface Duo (Microsoft Edge Dev Tools)</summary>
+
+![Surface Duo](./assets/img/homepage-responsive-surfaceduo-test.png)
+
+| Page | Result |
+| --- | --- |
+| Home | ✅ Passed |
+| Menu | ✅ Passed |
+| Gallery | ✅ Passed |
+| Book A Table | ✅ Passed |
+| Contact | ✅ Passed |
+| Response | ✅ Passed|
+</details>
+
+<details>
+<summary> Samsung Galaxy A51/71 (Microsoft Edge Dev Tools)</summary>
+
+![Samsung Galaxy A51/71](./assets/img/homepage-responsive-samsunggalaxya5171-test.png)
+
+| Page | Result |
+| --- | --- |
+| Home | ✅ Passed |
+| Menu | ✅ Passed |
+| Gallery | ✅ Passed |
+| Book A Table | ✅ Passed |
+| Contact | ✅ Passed |
+| Response | ✅ Passed|
+</details>
+
+<details>
+<summary> Nest Hub Max (Microsoft Edge Dev Tools)</summary>
+
+![Nest Hub Max](./assets/img/homepage-responsive-nesthubmax-test.png)
+
+| Page | Result |
+| --- | --- |
+| Home | ✅ Passed |
+| Menu | ✅ Passed |
+| Gallery | ✅ Passed |
+| Book A Table | ✅ Passed |
+| Contact | ✅ Passed |
+| Response | ✅ Passed|
+</details>
