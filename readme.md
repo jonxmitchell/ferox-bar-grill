@@ -266,3 +266,6 @@ For this section, it has been used to show a list of all the resources that I ha
 - [MDBootstrap - Static images](https://mdbootstrap.com/docs/standard/extended/gallery/) - Used to help create the layout for the gallery on the gallery page.
 - [W3C HTML Validator](https://validator.w3.org/) - Used to help validate my HTML code on all pages.
 - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) - Used to help validate my CSS code.
+- [similarweb](https://www.similarweb.com/browsers/) - Used in testing documentation to show the biggest browsers and their market share.
+- [Web Accessibility Evaluation Tool (WAVE)](https://wave.webaim.org/) - Used to test the accessibility of the website.
+- [Chrome Lighthouse Developer Tools](https://developer.chrome.com/docs/lighthouse/overview/) - Used to test the performance of the site.
